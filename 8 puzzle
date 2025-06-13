@@ -2,7 +2,7 @@
 
 import heapq
 
-# Define the goal state
+# Define the goal states
 GOAL_STATE = (1, 2, 3, 4, 5, 6, 7, 8, 0)
 
 # Define the possible moves (Up, Down, Left, Right)
